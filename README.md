@@ -84,4 +84,4 @@ tracking, no analytics, and no network calls. Reading it sends nothing anywhere.
 
 ## License
 
-MIT. Copyright 0xelitesystem 2026.
+MIT. Copyright RBL Industries LLC 2026.
